@@ -2,7 +2,7 @@
 using System;
 using System.Reflection;
 
-namespace Ape_Bending
+namespace WaterBending
 {
     /// <summary>
     /// This class handles applying harmony patches to the game.
